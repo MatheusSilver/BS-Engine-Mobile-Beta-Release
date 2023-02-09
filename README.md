@@ -4,4 +4,4 @@ Engine originalmente idealizada para ser um Port da Psych, mas que acabou tomand
 ## BSL Engine Mobile
 Você pode acessar o repositório oficial clicando aqui em baixo:
 
-[BS Engine Mobile](https://github.com/MatheusSilver/BS-Engine-Mobile).
+[BSL Engine Mobile](https://github.com/MatheusSilver/BSL-Engine-Mobile).

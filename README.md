@@ -4,4 +4,6 @@ Engine originalmente idealizada para ser um Port da Psych, mas que acabou tomand
 ## BSL Engine Mobile
 Você pode acessar o repositório oficial clicando aqui em baixo:
 
-[BSL Engine Mobile](https://github.com/MatheusSilver/BSL-Engine-Mobile).
+[BSL Engine Mobile]
+
+Esse repositório foi deletado então vai no releases e baixa o APK OG.
